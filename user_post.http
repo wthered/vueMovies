@@ -1,0 +1,4 @@
+POST http://www.pliassas.gr/test/check.php
+Content-Type: application/x-www-form-urlencoded
+
+name=lorem&pass=world
